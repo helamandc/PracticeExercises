@@ -9,8 +9,6 @@ namespace DisplayNumber
     public class DisplayNumber20
     {
         //Write a program in C# to create a list of numbers and display the numbers greater than 20 in LINQ Query
-
-        
         public void DisplayNumberGreater20()
         {
             List<int> list = new List<int>()
