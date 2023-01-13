@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareGreater20", "SquareGr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumDigitsString", "SumDigitsString\SumDigitsString.csproj", "{89EE523F-0406-459D-A9E1-EF5FFB5D67D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterFrequency", "LetterFrequency\LetterFrequency.csproj", "{611C6A9C-B984-467D-A5FB-0A4CCEAAA8EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{89EE523F-0406-459D-A9E1-EF5FFB5D67D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89EE523F-0406-459D-A9E1-EF5FFB5D67D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89EE523F-0406-459D-A9E1-EF5FFB5D67D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{611C6A9C-B984-467D-A5FB-0A4CCEAAA8EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611C6A9C-B984-467D-A5FB-0A4CCEAAA8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611C6A9C-B984-467D-A5FB-0A4CCEAAA8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611C6A9C-B984-467D-A5FB-0A4CCEAAA8EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

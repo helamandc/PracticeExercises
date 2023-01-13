@@ -74,6 +74,10 @@
       <Project>{6CDAFC42-6E3A-484E-9540-02DA8FAE87B4}</Project>
       <Name>GiveChange</Name>
     </ProjectReference>
+    <ProjectReference Include="..\LetterFrequency\LetterFrequency.csproj">
+      <Project>{611C6A9C-B984-467D-A5FB-0A4CCEAAA8EA}</Project>
+      <Name>LetterFrequency</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MinimumLength\MinimumLength.csproj">
       <Project>{FD9F37A3-5816-4D3C-B76F-FBD337B53738}</Project>
       <Name>MinimumLength</Name>
