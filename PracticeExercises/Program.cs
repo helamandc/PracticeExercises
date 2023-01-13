@@ -4,6 +4,7 @@ using DaysNames;
 using DecryptNumber;
 using DisplayNumber;
 using GiveChange;
+using LetterFrequency;
 using MinimumLength;
 using NumbersFromRange;
 using SquareGreater20;
@@ -55,8 +56,11 @@ namespace PracticeExercises
             //SquareGreater mySquare = new SquareGreater();
             //mySquare.Greater20Square();
 
-            DigitsSumString myDigit = new DigitsSumString();
-            myDigit.SumOfDigitsString();
+            //DigitsSumString myDigit = new DigitsSumString();
+            //myDigit.SumOfDigitsString();
+
+            LetterFrequencyCount myLetterCount = new LetterFrequencyCount();
+            myLetterCount.LetterCountFrequency();
 
             return true;
         }
