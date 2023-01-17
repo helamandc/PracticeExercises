@@ -3,6 +3,7 @@ using ContainingLetter;
 using DaysNames;
 using DecryptNumber;
 using DisplayNumber;
+using EvenOddNumbers;
 using GiveChange;
 using LetterFrequency;
 using MinimumLength;
@@ -14,6 +15,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TransposeAnArray;
 
 namespace PracticeExercises
 {
@@ -59,8 +61,14 @@ namespace PracticeExercises
             //DigitsSumString myDigit = new DigitsSumString();
             //myDigit.SumOfDigitsString();
 
-            LetterFrequencyCount myLetterCount = new LetterFrequencyCount();
-            myLetterCount.LetterCountFrequency();
+            //LetterFrequencyCount myLetterCount = new LetterFrequencyCount();
+            //myLetterCount.LetterCountFrequency();
+
+            //ArrayTranspose myTranspose = new ArrayTranspose();
+            //myTranspose.TransposeArray();
+
+            OddEven myOddEven = new OddEven();
+            myOddEven.DisplayResult();
 
             return true;
         }
