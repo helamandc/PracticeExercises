@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumDigitsString", "SumDigit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterFrequency", "LetterFrequency\LetterFrequency.csproj", "{611C6A9C-B984-467D-A5FB-0A4CCEAAA8EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransposeAnArray", "TransposeAnArray\TransposeAnArray.csproj", "{CFA1AD52-9152-4486-BE53-1E2D8E88ECD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenOddNumbers", "EvenOddNumbers\EvenOddNumbers.csproj", "{148F9F5B-FA38-4E73-A56E-CCCA912F5F0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{611C6A9C-B984-467D-A5FB-0A4CCEAAA8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{611C6A9C-B984-467D-A5FB-0A4CCEAAA8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{611C6A9C-B984-467D-A5FB-0A4CCEAAA8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFA1AD52-9152-4486-BE53-1E2D8E88ECD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFA1AD52-9152-4486-BE53-1E2D8E88ECD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFA1AD52-9152-4486-BE53-1E2D8E88ECD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFA1AD52-9152-4486-BE53-1E2D8E88ECD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{148F9F5B-FA38-4E73-A56E-CCCA912F5F0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{148F9F5B-FA38-4E73-A56E-CCCA912F5F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{148F9F5B-FA38-4E73-A56E-CCCA912F5F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{148F9F5B-FA38-4E73-A56E-CCCA912F5F0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

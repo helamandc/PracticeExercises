@@ -70,6 +70,10 @@
       <Project>{FBC20E51-BA21-4BFD-9A35-56B773182708}</Project>
       <Name>DecryptNumber</Name>
     </ProjectReference>
+    <ProjectReference Include="..\EvenOddNumbers\EvenOddNumbers.csproj">
+      <Project>{148F9F5B-FA38-4E73-A56E-CCCA912F5F0E}</Project>
+      <Name>EvenOddNumbers</Name>
+    </ProjectReference>
     <ProjectReference Include="..\GiveChange\GiveChange.csproj">
       <Project>{6CDAFC42-6E3A-484E-9540-02DA8FAE87B4}</Project>
       <Name>GiveChange</Name>
@@ -93,6 +97,10 @@
     <ProjectReference Include="..\SumDigitsString\SumDigitsString.csproj">
       <Project>{89EE523F-0406-459D-A9E1-EF5FFB5D67D1}</Project>
       <Name>SumDigitsString</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TransposeAnArray\TransposeAnArray.csproj">
+      <Project>{CFA1AD52-9152-4486-BE53-1E2D8E88ECD7}</Project>
+      <Name>TransposeAnArray</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
