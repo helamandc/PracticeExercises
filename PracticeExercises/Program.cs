@@ -3,6 +3,7 @@ using ContainingLetter;
 using DaysNames;
 using DecryptNumber;
 using DisplayNumber;
+using DoubleLetters;
 using EvenOddNumbers;
 using GiveChange;
 using LetterFrequency;
@@ -67,8 +68,11 @@ namespace PracticeExercises
             //ArrayTranspose myTranspose = new ArrayTranspose();
             //myTranspose.TransposeArray();
 
-            OddEven myOddEven = new OddEven();
-            myOddEven.DisplayResult();
+            //OddEven myOddEven = new OddEven();
+            //myOddEven.DisplayResult();
+
+            DoubledLetters myDouble = new DoubledLetters();
+            myDouble.DoubledLettersDisplay();
 
             return true;
         }
