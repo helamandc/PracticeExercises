@@ -3,6 +3,7 @@ using ContainingLetter;
 using DaysNames;
 using DecryptNumber;
 using DisplayNumber;
+using DoubleLetters;
 using EvenOddNumbers;
 using FindUpper;
 using GiveChange;
@@ -73,6 +74,8 @@ namespace PracticeExercises
 
             FindUpperWord myUpper = new FindUpperWord();
             myUpper.FindUpperText();
+            DoubledLetters myDouble = new DoubledLetters();
+            myDouble.DoubledLettersDisplay();
 
             return true;
         }
