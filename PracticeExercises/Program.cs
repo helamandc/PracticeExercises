@@ -5,6 +5,7 @@ using DecryptNumber;
 using DisplayNumber;
 using DoubleLetters;
 using EvenOddNumbers;
+using FindUpper;
 using GiveChange;
 using LetterFrequency;
 using MinimumLength;
@@ -71,6 +72,8 @@ namespace PracticeExercises
             //OddEven myOddEven = new OddEven();
             //myOddEven.DisplayResult();
 
+            FindUpperWord myUpper = new FindUpperWord();
+            myUpper.FindUpperText();
             DoubledLetters myDouble = new DoubledLetters();
             myDouble.DoubledLettersDisplay();
 
