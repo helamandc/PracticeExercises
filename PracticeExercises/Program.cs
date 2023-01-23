@@ -72,10 +72,12 @@ namespace PracticeExercises
             //OddEven myOddEven = new OddEven();
             //myOddEven.DisplayResult();
 
+            //DoubledLetters myDouble = new DoubledLetters();
+            //myDouble.DoubledLettersDisplay();
+
             FindUpperWord myUpper = new FindUpperWord();
             myUpper.FindUpperText();
-            DoubledLetters myDouble = new DoubledLetters();
-            myDouble.DoubledLettersDisplay();
+            
 
             return true;
         }
