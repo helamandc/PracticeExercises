@@ -74,6 +74,10 @@
       <Project>{148F9F5B-FA38-4E73-A56E-CCCA912F5F0E}</Project>
       <Name>EvenOddNumbers</Name>
     </ProjectReference>
+    <ProjectReference Include="..\FindUpperWord\FindUpperWord.csproj">
+      <Project>{6E80D5B2-A8FE-49A9-9AFB-A4FAC2755C8A}</Project>
+      <Name>FindUpperWord</Name>
+    </ProjectReference>
     <ProjectReference Include="..\GiveChange\GiveChange.csproj">
       <Project>{6CDAFC42-6E3A-484E-9540-02DA8FAE87B4}</Project>
       <Name>GiveChange</Name>

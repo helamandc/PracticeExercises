@@ -4,6 +4,7 @@ using DaysNames;
 using DecryptNumber;
 using DisplayNumber;
 using EvenOddNumbers;
+using FindUpper;
 using GiveChange;
 using LetterFrequency;
 using MinimumLength;
@@ -67,8 +68,11 @@ namespace PracticeExercises
             //ArrayTranspose myTranspose = new ArrayTranspose();
             //myTranspose.TransposeArray();
 
-            OddEven myOddEven = new OddEven();
-            myOddEven.DisplayResult();
+            //OddEven myOddEven = new OddEven();
+            //myOddEven.DisplayResult();
+
+            FindUpperWord myUpper = new FindUpperWord();
+            myUpper.FindUpperText();
 
             return true;
         }
