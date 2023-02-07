@@ -90,6 +90,10 @@
       <Project>{611C6A9C-B984-467D-A5FB-0A4CCEAAA8EA}</Project>
       <Name>LetterFrequency</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ListPositiveNumbers\ListPositiveNumbers.csproj">
+      <Project>{6D309290-7C40-4D86-8194-60C5F4788931}</Project>
+      <Name>ListPositiveNumbers</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MinimumLength\MinimumLength.csproj">
       <Project>{FD9F37A3-5816-4D3C-B76F-FBD337B53738}</Project>
       <Name>MinimumLength</Name>
