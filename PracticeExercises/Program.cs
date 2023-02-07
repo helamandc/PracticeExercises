@@ -8,6 +8,7 @@ using EvenOddNumbers;
 using FindUpper;
 using GiveChange;
 using LetterFrequency;
+using ListPositiveNumbers;
 using MinimumLength;
 using NumbersFromRange;
 using SquareGreater20;
@@ -75,9 +76,11 @@ namespace PracticeExercises
             //DoubledLetters myDouble = new DoubledLetters();
             //myDouble.DoubledLettersDisplay();
 
-            FindUpperWord myUpper = new FindUpperWord();
-            myUpper.FindUpperText();
-            
+            //FindUpperWord myUpper = new FindUpperWord();
+            //myUpper.FindUpperText();
+
+            PositiveNumbers myPositive = new PositiveNumbers();
+            myPositive.DisplayPositiveNumber();
 
             return true;
         }
