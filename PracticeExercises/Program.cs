@@ -3,6 +3,7 @@ using ContainingLetter;
 using DaysNames;
 using DecryptNumber;
 using DisplayNumber;
+using DisplayTopStudent;
 using DoubleLetters;
 using EvenOddNumbers;
 using FindUpper;
@@ -79,8 +80,12 @@ namespace PracticeExercises
             //FindUpperWord myUpper = new FindUpperWord();
             //myUpper.FindUpperText();
 
-            PositiveNumbers myPositive = new PositiveNumbers();
-            myPositive.DisplayPositiveNumber();
+            //PositiveNumbers myPositive = new PositiveNumbers();
+            //myPositive.DisplayPositiveNumber();
+
+            TopStudent myDisplayTopStudent = new TopStudent();
+            myDisplayTopStudent.DisplayTopStudents();
+
 
             return true;
         }

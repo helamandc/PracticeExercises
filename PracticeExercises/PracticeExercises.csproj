@@ -70,6 +70,10 @@
       <Project>{FBC20E51-BA21-4BFD-9A35-56B773182708}</Project>
       <Name>DecryptNumber</Name>
     </ProjectReference>
+    <ProjectReference Include="..\DisplayTopStudent\DisplayTopStudent.csproj">
+      <Project>{F8226827-212A-45ED-88F7-F86E8684C496}</Project>
+      <Name>DisplayTopStudent</Name>
+    </ProjectReference>
     <ProjectReference Include="..\DoubleLetters\DoubleLetters.csproj">
       <Project>{910EF1C6-C2D9-44C0-A000-3FC3E94479EF}</Project>
       <Name>DoubleLetters</Name>
