@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListPositiveNumbers", "List
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayTopStudent", "DisplayTopStudent\DisplayTopStudent.csproj", "{F8226827-212A-45ED-88F7-F86E8684C496}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InnerJoinProject", "InnerJoinProject\InnerJoinProject.csproj", "{5A62DCF6-1D60-4C58-874F-CCE620E5F9B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{F8226827-212A-45ED-88F7-F86E8684C496}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8226827-212A-45ED-88F7-F86E8684C496}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8226827-212A-45ED-88F7-F86E8684C496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A62DCF6-1D60-4C58-874F-CCE620E5F9B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A62DCF6-1D60-4C58-874F-CCE620E5F9B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A62DCF6-1D60-4C58-874F-CCE620E5F9B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A62DCF6-1D60-4C58-874F-CCE620E5F9B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
