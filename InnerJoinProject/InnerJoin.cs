@@ -19,7 +19,7 @@ namespace InnerJoinProject
 //4               Brade                   700                                                                   
 //4               Brade                   650
 
-    public class Class1
+    public class InnerJoin
     {
     }
 }
